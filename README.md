@@ -6,7 +6,7 @@
 - 🔭 I’m currently on the job hunt
 - 🌱 I’m currently learning react-three-fiber and THREE.js
 - 🤔 I’m looking for help with cors
-- 💬 Ask me about [...](https://www.youtube.com/watch?v=zxLoR6H7GxQ&ab_channel=bigscov)
+<!-- - 💬 Ask me about [...](https://www.youtube.com/watch?v=zxLoR6H7GxQ&ab_channel=bigscov) -->
 - 📫 How to reach me: Message me on [linkedin]
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I only work to feed my dog
