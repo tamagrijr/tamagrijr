@@ -3,9 +3,9 @@
 ## I'm a passionate, hard-working software engineer that loves to problem solve
 
 - 💻 You can find my projects here [portfolio]
-- 🔭 I’m currently on the job hunt
+- 🔭 I’m currently working on mastering JavaScript
 - 🌱 I’m currently learning react-three-fiber and THREE.js
-- 🤔 I’m looking for help with cors
+- 🤔 I’m looking for help with 3D modeling
 - 📫 How to reach me: Message me on [linkedin]
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I only work to feed my dog
